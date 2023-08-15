@@ -1,4 +1,4 @@
-# JSON/XML/YAML Based Portfolio
+# JSON/XML/YAML Portfolio Template
 This project contains a document that serves as a portfolio in `JSON`, `XML`, and `YAML` formats. The documents provide structured information about one's background, title, location, and various online profiles. Feel free to edit it and expand upon it as you see fit. 
 
 *I will be adding more details to the documents over time such as skills, experience, education, certifications, etc.*
