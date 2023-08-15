@@ -3,7 +3,7 @@ This project contains a document that serves as a **portfolio template** in `JSO
 
 *I will be adding more details to the documents over time such as skills, experience, education, certifications, etc.*
 
-For an open-sourced portfolio website template, I'd suggest you checking out my repo [here](https://github.com/scottgriv/portfolio-website), which looks like [this](https://www.scottgriv.dev). Feel free to fork it and use it as you see fit!
+For an open-sourced portfolio website template, I'd suggest you checking out my repo [here](https://github.com/scottgriv/portfolio-website), which looks like [this](https://www.scottgrivner.dev). Feel free to fork it and use it as you see fit!
 
 Happy coding!
 
