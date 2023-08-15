@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<portfolio>
+    <name>Scott Grivner</name>
+    <title>Software Engineer &amp; Architect</title>
+    <location>North Eastern Pennsylvania, USA</location>
+    <links>
+        <link type="email" href="mailto:scott.grivner@gmail.com"/>
+        <link type="portfolio" href="https://www.scottgrivner.dev/"/>
+        <link type="github" href="https://github.com/scottgriv"/>
+        <link type="stackoverflow" href="https://stackoverflow.com/u/3092847"/>
+        <link type="linkedin" href="https://www.linkedin.com/in/scottgrivner/"/>
+        <link type="codepen" href="https://codepen.io/scottgriv"/>
+        <link type="medium" href="https://medium.com/@scott.grivner"/>
+        <link type="twitter" href="https://twitter.com/scottgrivner"/>
+        <link type="youtube" href="https://www.youtube.com/@scottgrivner"/>
+        <link type="buymeacoffee" href="https://www.buymeacoffee.com/scottgriv"/>
+    </links>
+</portfolio>
