@@ -1,7 +1,13 @@
 <!-- Begin README -->
 
 <div align="center">
-    <a href="https://github.com/scottgriv/json-xml-yaml-based_portfolio" target="_blank"><img src="./docs/images/json.png" width="100" height="100"/><img src="./docs/images/xml.png" width="200" height="100"/><img src="./docs/images/yaml.png" width="100" height="100"/></a>
+    <a href="https://github.com/scottgriv/uwp-audio_recorder" target="_blank">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="./docs/images/icon-dark.png">
+            <source media="(prefers-color-scheme: light)" srcset="./docs/images/icon-light.png">
+            <img alt="Icon" src="./docs/images/icon-dark.png" width="207" height="207">
+        </picture>
+    </a>
 </div>
 <br>
 <p align="center">
@@ -29,8 +35,8 @@ This project contains a document that serves as a **Portfolio Template** in `JSO
 - [Background Story](#background-story)
 - [Definitions](#definitions)
 - [Getting Started](#getting-started)
-    - [XML](#xml-extensible-markup-language)
     - [JSON](#json-javascript-object-notation)
+    - [XML](#xml-extensible-markup-language)
     - [YAML](#yaml-yaml-aint-markup-language)
 - [Closing](#closing)
 - [Resources](#resources)
@@ -43,7 +49,7 @@ I created this project to format my portfolio in `JSON`, `XML`, and `YAML` forma
 
 ## Definitions
 
-`XML`, `JSON`, and `YAML` are all data serialization formats used to structure and represent data in a standardized way. They are commonly used for various purposes, including configuration files, data exchange (interchanges) between systems, APIs, and more. Here's how each format is used:
+`JSON`, `XML`, and `YAML` are all data serialization formats used to structure and represent data in a standardized way. They are commonly used for various purposes, including configuration files, data exchange (interchanges) between systems, APIs, and more. Here's how each format is used:
 
 ## Getting Started
 
@@ -52,26 +58,41 @@ Use the following files as a template for your portfolio:
 - [XML](portfolio.xml)
 - [YAML](portfolio.yaml)
 
-### XML (eXtensible Markup Language):
-
-- `XML` is a markup language that uses a structured format to represent data. It consists of a set of tags that define elements and their relationships.
-- `XML` is widely used for representing structured data in a human-readable and machine-readable format. It's used for configuration files, data exchange, document storage, and more.
-- Applications use `XML` parsers to read and manipulate `XML` data. Common use cases include RSS feeds, configuration files (e.g., web application configuration), and document formats (e.g., Microsoft Office Open `XML`).
-
 ### JSON (JavaScript Object Notation):
+
+<div align="center">
+    <img src="./docs/images/json.png" width="100" height="100"/>
+</div>
+<br>
 
 - `JSON` is a lightweight data-interchange format that uses a syntax similar to JavaScript object literals. It consists of key-value pairs, arrays, and nested objects.
 - `JSON` is commonly used for transmitting data between a server and a web application. It's easy for humans to read and write, and it's easy for machines to parse and generate.
 - `JSON` has become the de facto standard for data exchange in modern web applications, APIs (e.g., RESTful APIs), and configuration files.
 
+### XML (eXtensible Markup Language):
+
+<div align="center">
+    <img src="./docs/images/xml.png" width="200" height="100"/>
+</div>
+
+- `XML` is a markup language that uses a structured format to represent data. It consists of a set of tags that define elements and their relationships.
+- `XML` is widely used for representing structured data in a human-readable and machine-readable format. It's used for configuration files, data exchange, document storage, and more.
+- Applications use `XML` parsers to read and manipulate `XML` data. Common use cases include RSS feeds, configuration files (e.g., web application configuration), and document formats (e.g., Microsoft Office Open `XML`).
+
 ### YAML (YAML Ain't Markup Language):
+
+<div align="center">
+    <img src="./docs/images/yaml.png" width="100" height="100"/>
+</div>
+<br>
 
 `YAML` is a human-readable data serialization format that uses indentation to represent data structures. It's often used for configuration files and data exchange.
 `YAML` is less verbose compared to `XML` and `JSON`, making it well-suited for configuration files where readability is important.
 It's commonly used in configuration files for software projects, continuous integration tools, and infrastructure as code tools like Ansible.
-In summary, `XML`, `JSON`, and `YAML` are used for structuring and representing data in various applications and contexts. The choice of format depends on factors such as the use case, the technologies involved, and the preference for readability and ease of use.
 
 ## Closing
+
+In summary, `JSON`, `XML`, and `YAML` are used for structuring and representing data in various applications and contexts. The choice of format depends on factors such as the use case, the technologies involved, and the preference for readability and ease of use.
 
 > [!NOTE] 
 > I will be adding more details to the documents over time such as skills, experience, education, certifications, etc.
