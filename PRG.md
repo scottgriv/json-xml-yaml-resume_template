@@ -15,7 +15,7 @@ This file is used to connect this repository to the **PRG** project categorizati
 **Repository Tier:** Bronze <br>
 **Technology:** JSON, XML, YAML <br>
 **Category:** Template <br>
-**Order:** 1 <br>
+**Order:** 2 <br>
 
 ## Parameters
 
