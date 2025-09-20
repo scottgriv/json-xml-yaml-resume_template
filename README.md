@@ -100,7 +100,7 @@ In summary, `JSON`, `XML`, and `YAML` are used for structuring and representing 
 > If you decide to enter a pull request with additional details, please make sure to update all three documents.
 
 > [!TIP] 
-> For an open-sourced portfolio website template, I'd suggest you checking out my repo [here](https://github.com/scottgriv/portfolio-website), which looks like [this](https://www.scottgrivner.dev). Feel free to fork it and use it as you see fit!
+> For an open-sourced portfolio website template, I'd suggest you checking out my repo [here](https://github.com/scottgriv/portfolio-website), which looks like [this](https://www.linktr.ee/scottgriv). Feel free to fork it and use it as you see fit!
 
 **Happy Coding! 🚀**
 
@@ -121,13 +121,13 @@ This project is released under the terms of **The Unlicense**, which allows you 
 
 **Author:** [Scott Grivner](https://github.com/scottgriv) <br>
 **Email:** [scott.grivner@gmail.com](mailto:scott.grivner@gmail.com) <br>
-**Website:** [scottgrivner.dev](https://www.scottgrivner.dev) <br>
+**Website:** [linktr.ee/scottgriv](https://www.linktr.ee/scottgriv) <br>
 **Reference:** [Main Branch](https://github.com/scottgriv/json-xml-yaml-based_portfolio) <br>
 
 ---------------
 
 <div align="center">
-    <a href="https://scottgrivner.dev" target="_blank">
+    <a href="https://linktr.ee/scottgriv" target="_blank">
         <img src="./docs/images/footer.png" width="100" height="100"/>
     </a>
 </div>
